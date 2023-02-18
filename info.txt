@@ -8,3 +8,4 @@ Dart monkey - deflation on resort and max tier top row
 
 ALSO: 4th tier alchemist and 2 tier village
 No Monkey Knowlege or Heros Needed
+Dont forget to select englisch as an language and have default hotkeys
